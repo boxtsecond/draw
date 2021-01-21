@@ -1,1 +1,40 @@
-
+<mxfile host="app.diagrams.net" modified="2021-01-21T03:44:28.069Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="R5GM2jyMliZmDpxSTaCO" version="14.2.6" type="github">
+  <diagram id="rfyT-LtF2Pe46t2oqA69" name="第 1 页">
+    <mxGraphModel dx="1426" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MkXuHvyHVTgwx-db9zs0-3" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="535" width="500" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MkXuHvyHVTgwx-db9zs0-4" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="380" width="10" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="MkXuHvyHVTgwx-db9zs0-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: -0.1px ; font-family: &amp;quot;avenir next&amp;quot; , &amp;quot;pingfangsc&amp;quot; , &amp;quot;unito sans&amp;quot; , &amp;quot;microsoft yahei&amp;quot;&quot;&gt;&lt;font&gt;完全深度&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillStyle=auto;strokeColor=#FF6666;fillColor=#FFBDBD;" parent="1" vertex="1">
+          <mxGeometry x="245" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkXuHvyHVTgwx-db9zs0-6" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: -0.1px ; font-family: &amp;#34;avenir next&amp;#34; , &amp;#34;pingfangsc&amp;#34; , &amp;#34;unito sans&amp;#34; , &amp;#34;microsoft yahei&amp;#34;&quot;&gt;随时随地深度&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillStyle=auto;fillColor=#99CCFF;strokeColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="490" y="570" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkXuHvyHVTgwx-db9zs0-8" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: -0.1px ; font-family: &amp;#34;avenir next&amp;#34; , &amp;#34;pingfangsc&amp;#34; , &amp;#34;unito sans&amp;#34; , &amp;#34;microsoft yahei&amp;#34;&quot;&gt;每日深度&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillStyle=auto;fillColor=#B9E0A5;strokeColor=#00CC00;" parent="1" vertex="1">
+          <mxGeometry x="490" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MkXuHvyHVTgwx-db9zs0-10" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;avenir next&amp;#34; , &amp;#34;pingfangsc&amp;#34; , &amp;#34;unito sans&amp;#34; , &amp;#34;microsoft yahei&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: -0.1px ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;禁欲主义哲学&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="250" y="500" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MkXuHvyHVTgwx-db9zs0-12" value="&lt;span style=&quot;font-family: &amp;#34;avenir next&amp;#34; , &amp;#34;pingfangsc&amp;#34; , &amp;#34;unito sans&amp;#34; , &amp;#34;microsoft yahei&amp;#34; ; font-size: 18px ; letter-spacing: -0.1px&quot;&gt;双峰哲学&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="250" y="640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MkXuHvyHVTgwx-db9zs0-13" value="&lt;div&gt;&lt;font face=&quot;Avenir Next, PingFangSC, Unito Sans, Microsoft Yahei&quot;&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: -0.1px&quot;&gt;新闻记者哲学&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Avenir Next, PingFangSC, Unito Sans, Microsoft Yahei&quot;&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: -0.1px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="500" y="640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MkXuHvyHVTgwx-db9zs0-14" value="&lt;div&gt;&lt;font face=&quot;Avenir Next, PingFangSC, Unito Sans, Microsoft Yahei&quot;&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: -0.1px&quot;&gt;节奏哲学&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Avenir Next, PingFangSC, Unito Sans, Microsoft Yahei&quot;&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: -0.1px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="490" y="502" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MkXuHvyHVTgwx-db9zs0-15" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: -0.1px ; font-family: &amp;#34;avenir next&amp;#34; , &amp;#34;pingfangsc&amp;#34; , &amp;#34;unito sans&amp;#34; , &amp;#34;microsoft yahei&amp;#34;&quot;&gt;阶段性深度&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillStyle=auto;fillColor=#FFD194;strokeColor=#FF9933;" parent="1" vertex="1">
+          <mxGeometry x="245" y="572.5" width="130" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
