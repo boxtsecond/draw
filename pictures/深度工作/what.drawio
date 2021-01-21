@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T10:16:35.378Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="T2AfARsFiYtncKbHEsHt" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T10:16:48.965Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="-d9d-H1d3vIW_FATjIAF" version="14.2.6" type="github">
   <diagram id="2Q7wHZQhwZNyx9bPyNay" name="第 1 页">
     <mxGraphModel dx="1426" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F3E8" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="479" y="288" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QfFrR6SA7EDd0lu5BNjO-31" value="&lt;ol&gt;&lt;li&gt;有意识地衡量每个任务的深浅度&lt;/li&gt;&lt;li&gt;清晰地划分出可工作时间，在有限的时间内，更谨慎地思考、选择、处理工作内容&lt;/li&gt;&lt;li&gt;工作尽可能地流程化&lt;/li&gt;&lt;li&gt;计划一段“消失”时间，无打扰地进行长时间的深度工作&lt;/li&gt;&lt;/ol&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;strokeColor=#808080;strokeWidth=2;fillColor=#E6E6E6;fontSize=16;fontColor=#000000;opacity=90;align=left;verticalAlign=middle;horizontal=1;spacing=6;spacingTop=0;spacingRight=2;spacingBottom=2;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="472" width="360" height="140" as="geometry" />
+          <mxGeometry x="249" y="472" width="360" height="140" as="geometry" />
         </mxCell>
         <mxCell id="QfFrR6SA7EDd0lu5BNjO-32" value="如何减少浮浅工作，增加深度工作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontSize=16;fontColor=#000000;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="294" y="447" width="270" height="20" as="geometry" />
