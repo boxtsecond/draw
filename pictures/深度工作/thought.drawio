@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T13:15:14.378Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.2.6" etag="FADlZmLemjdO-Cu89wy5" type="github"><diagram id="OWyOACpLeSbzCplrit9Z">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-21T14:10:01.950Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="JqPD1NbyZNtT_V2B9ZdP" version="14.2.6" type="github">
+  <diagram id="OWyOACpLeSbzCplrit9Z" name="第 1 页">
+    <mxGraphModel dx="946" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F3E8" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_OrqzrfAxAN4q48u0Pvt-3" value="" style="shape=actor;whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="190" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_OrqzrfAxAN4q48u0Pvt-4" value="如何能尽可能地不占用休息时间高质量地完成目标？" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;shadow=1;spacingLeft=6;spacingRight=6;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="90" width="186" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_OrqzrfAxAN4q48u0Pvt-8" value="高质量产出 = 时间 x 专注度" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];sketch=1;rounded=0;shadow=1;spacingLeft=16;" vertex="1" parent="1">
+          <mxGeometry x="220" y="193" width="200" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="_OrqzrfAxAN4q48u0Pvt-10" value="如何提高专注度？&#xa;如何快速进入深度工作的状态？" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];sketch=1;rounded=0;shadow=1;spacingLeft=13;" vertex="1" parent="1">
+          <mxGeometry x="410" y="193" width="220" height="58.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
