@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T11:00:49.678Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="-5WymDfV214_ARnmeVCd" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T12:43:50.095Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="VdVqBKcgL6b715udxHqO" version="14.2.6" type="github">
   <diagram id="5hDAxi_boIst-9sQSkmx" name="第 1 页">
-    <mxGraphModel dx="1186" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F3E8" math="0" shadow="0">
+    <mxGraphModel dx="588" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F3E8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ugjQtYivipN5QYXBh993-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="156" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjQtYivipN5QYXBh993-19" value="" style="shape=mxgraph.azure.azure_alert;strokeColor=none;html=1;fillColor=#FF3333;sketch=0;shadow=0;" vertex="1" parent="ugjQtYivipN5QYXBh993-31">
+          <mxGeometry y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjQtYivipN5QYXBh993-20" value="&lt;font style=&quot;font-size: 16px&quot;&gt;度量黑洞&lt;/font&gt;" style="dashed=0;html=1;rounded=1;strokeColor=#FFAB00;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#42526E;shadow=0;glass=0;sketch=1;fillColor=none;" vertex="1" parent="ugjQtYivipN5QYXBh993-31">
+          <mxGeometry x="50" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjQtYivipN5QYXBh993-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="220" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjQtYivipN5QYXBh993-25" value="" style="shape=mxgraph.azure.azure_alert;strokeColor=none;html=1;fillColor=#FF3333;sketch=0;shadow=0;" vertex="1" parent="ugjQtYivipN5QYXBh993-32">
+          <mxGeometry y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjQtYivipN5QYXBh993-26" value="&lt;span style=&quot;font-size: 16px&quot;&gt;最小阻力原则&lt;/span&gt;" style="dashed=0;html=1;rounded=1;strokeColor=#FFAB00;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#42526E;shadow=0;glass=0;sketch=1;fillColor=none;" vertex="1" parent="ugjQtYivipN5QYXBh993-32">
+          <mxGeometry x="50" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjQtYivipN5QYXBh993-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="290" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjQtYivipN5QYXBh993-27" value="" style="shape=mxgraph.azure.azure_alert;strokeColor=none;html=1;fillColor=#FF3333;sketch=0;shadow=0;" vertex="1" parent="ugjQtYivipN5QYXBh993-33">
+          <mxGeometry y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjQtYivipN5QYXBh993-28" value="&lt;span style=&quot;font-size: 16px&quot;&gt;忙碌代表生产能力&lt;/span&gt;" style="dashed=0;html=1;rounded=1;strokeColor=#FFAB00;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#42526E;shadow=0;glass=0;sketch=1;fillColor=none;" vertex="1" parent="ugjQtYivipN5QYXBh993-33">
+          <mxGeometry x="50" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjQtYivipN5QYXBh993-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="360" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjQtYivipN5QYXBh993-29" value="" style="shape=mxgraph.azure.azure_alert;strokeColor=none;html=1;fillColor=#FF3333;sketch=0;shadow=0;" vertex="1" parent="ugjQtYivipN5QYXBh993-34">
+          <mxGeometry y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjQtYivipN5QYXBh993-30" value="&lt;span style=&quot;font-size: 16px&quot;&gt;盲目崇拜科技&lt;/span&gt;" style="dashed=0;html=1;rounded=1;strokeColor=#FFAB00;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#42526E;shadow=0;glass=0;sketch=1;fillColor=none;" vertex="1" parent="ugjQtYivipN5QYXBh993-34">
+          <mxGeometry x="50" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
