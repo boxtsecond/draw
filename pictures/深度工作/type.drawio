@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T05:45:36.872Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="vX5uj65zJQGpWZxzGrLb" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-22T09:09:53.845Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="L3Y0IVqog7G4mS2jXv3c" version="14.2.6" type="github">
   <diagram id="rfyT-LtF2Pe46t2oqA69" name="第 1 页">
-    <mxGraphModel dx="1426" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F3E8" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFEF7" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,19 +31,19 @@
         <mxCell id="MkXuHvyHVTgwx-db9zs0-15" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: -0.1px ; font-family: &amp;#34;avenir next&amp;#34; , &amp;#34;pingfangsc&amp;#34; , &amp;#34;unito sans&amp;#34; , &amp;#34;microsoft yahei&amp;#34;&quot;&gt;阶段性深度&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillStyle=auto;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="245" y="596.25" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ctKcQ00ehMjPivleR9ZW-2" value="适用于专职作家、科学家 等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#393C56;rotation=0;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ctKcQ00ehMjPivleR9ZW-2" value="适用于专职作家、科学家 等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#393C56;rotation=0;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="507" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ctKcQ00ehMjPivleR9ZW-4" value="适用于绝大部分上班族" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#393C56;rotation=0;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ctKcQ00ehMjPivleR9ZW-4" value="适用于绝大部分上班族" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#393C56;rotation=0;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="507" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ctKcQ00ehMjPivleR9ZW-5" value="适用于可随时转入写作模式的群体，&lt;br&gt;如 记者、作家 等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#393C56;rotation=0;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ctKcQ00ehMjPivleR9ZW-5" value="适用于可随时转入写作模式的群体，&lt;br&gt;如 记者、作家 等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#393C56;rotation=0;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="670" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ctKcQ00ehMjPivleR9ZW-6" value="适用于企业家、老师 等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#393C56;rotation=0;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ctKcQ00ehMjPivleR9ZW-6" value="适用于企业家、老师 等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#393C56;rotation=0;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="675" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ctKcQ00ehMjPivleR9ZW-7" value="&lt;div&gt;&lt;font face=&quot;Avenir Next, PingFangSC, Unito Sans, Microsoft Yahei&quot;&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: -0.1px&quot;&gt;禁欲主义哲学&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Avenir Next, PingFangSC, Unito Sans, Microsoft Yahei&quot;&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: -0.1px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontColor=#393C56;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ctKcQ00ehMjPivleR9ZW-7" value="&lt;div&gt;&lt;font face=&quot;Avenir Next, PingFangSC, Unito Sans, Microsoft Yahei&quot;&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: -0.1px&quot;&gt;禁欲主义哲学&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Avenir Next, PingFangSC, Unito Sans, Microsoft Yahei&quot;&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: -0.1px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontColor=#393C56;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="385" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
