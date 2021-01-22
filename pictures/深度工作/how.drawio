@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T08:09:18.636Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="QJnVLVGUA-uQ3UjOFXPx" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-22T08:43:30.860Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="lBXyyDB72f8oG7x3N8YJ" version="14.2.6" type="github">
   <diagram id="ac4Dt_KBg5GD50gWV8oC" name="第 1 页">
     <mxGraphModel dx="1426" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F3E8" math="0" shadow="0">
       <root>
@@ -71,15 +71,6 @@
           <mxGeometry x="50" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qWEY_5Er5nwBZzaI58Md-47" value="" style="triangle;html=1;whiteSpace=wrap;sketch=1;shadow=1;fillStyle=solid;fillColor=#FF0000;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-45">
-          <mxGeometry y="5" width="26" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qWEY_5Er5nwBZzaI58Md-51" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="608" y="226" width="230" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qWEY_5Er5nwBZzaI58Md-52" value="&lt;span style=&quot;font-size: 16px ; text-align: left&quot;&gt;提前做好时间规划&lt;/span&gt;" style="whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-51">
-          <mxGeometry x="50" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qWEY_5Er5nwBZzaI58Md-53" value="" style="triangle;html=1;whiteSpace=wrap;sketch=1;shadow=1;fillStyle=solid;fillColor=#FF0000;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-51">
           <mxGeometry y="5" width="26" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qWEY_5Er5nwBZzaI58Md-139" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -169,10 +160,10 @@
         <mxCell id="qWEY_5Er5nwBZzaI58Md-101" value="&lt;font style=&quot;font-size: 16px&quot;&gt;正向反馈&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=16;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-139">
           <mxGeometry x="417.74" y="334" width="79" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qWEY_5Er5nwBZzaI58Md-103" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/miu/24/circle-sync-backup-2-glyph-128.png;rounded=0;shadow=0;glass=0;sketch=1;fillColor=none;gradientColor=none;fontSize=16;fontColor=#33333333;dashed=1;dashPattern=1 1;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-139">
-          <mxGeometry x="437.24" y="382" width="50" height="50" as="geometry" />
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-103" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/miu/24/circle-sync-backup-2-glyph-128.png;rounded=0;shadow=0;glass=0;sketch=1;fillColor=none;gradientColor=none;fontSize=16;fontColor=#33333333;dashed=1;dashPattern=1 1;opacity=65;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-139">
+          <mxGeometry x="444.74" y="381" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qWEY_5Er5nwBZzaI58Md-104" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pinpoint-interface/48/repair-calendar-128.png;rounded=0;shadow=0;glass=0;sketch=1;fillColor=none;gradientColor=none;fontSize=16;fontColor=#000000;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-139">
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-104" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pinpoint-interface/48/repair-calendar-128.png;rounded=0;shadow=0;glass=0;sketch=1;fillColor=none;gradientColor=none;fontSize=16;fontColor=#000000;opacity=65;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-139">
           <mxGeometry x="534" y="384" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qWEY_5Er5nwBZzaI58Md-108" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/infographic-bar-vol-9/512/1-128.png;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=1;fillColor=none;gradientColor=none;fontSize=16;fontColor=#000000;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-139">
@@ -235,10 +226,10 @@
         <mxCell id="qWEY_5Er5nwBZzaI58Md-142" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=1;sketch=1;fillColor=#FF0000;fontSize=16;direction=east;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-116">
           <mxGeometry y="-19.960000000000036" width="26.55" height="335" as="geometry" />
         </mxCell>
-        <mxCell id="qWEY_5Er5nwBZzaI58Md-144" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/marketing-office/64/Marketing_Icon_Outline-17-128.png;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=1;fillColor=none;gradientColor=none;fontSize=10;fontColor=#000000;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-116">
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-144" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/marketing-office/64/Marketing_Icon_Outline-17-128.png;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=1;fillColor=none;gradientColor=none;fontSize=10;fontColor=#000000;opacity=70;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-116">
           <mxGeometry x="262.5" y="-21.91999999999996" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="qWEY_5Er5nwBZzaI58Md-147" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/date-and-time-fill-outline/64/Calendar_month_date_schedule_event_done-128.png;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=1;fillColor=none;gradientColor=none;fontSize=10;fontColor=#000000;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-116">
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-147" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/date-and-time-fill-outline/64/Calendar_month_date_schedule_event_done-128.png;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=1;fillColor=none;gradientColor=none;fontSize=10;fontColor=#000000;opacity=60;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-116">
           <mxGeometry x="173.52" y="131.99" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qWEY_5Er5nwBZzaI58Md-141" value="" style="whiteSpace=wrap;html=1;shadow=0;sketch=1;fontSize=16;rounded=1;glass=1;fillStyle=hachure;fillColor=#C2E4FF;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-150">
@@ -253,7 +244,7 @@
         <mxCell id="qWEY_5Er5nwBZzaI58Md-146" value="&lt;font style=&quot;font-size: 16px&quot;&gt;有仪式感的结束&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=16;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-150">
           <mxGeometry x="400" y="332.41999999999996" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qWEY_5Er5nwBZzaI58Md-148" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/communication-technology/500/website_sparkles-128.png;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=1;fillColor=none;gradientColor=none;fontSize=10;fontColor=#000000;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-150">
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-148" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/communication-technology/500/website_sparkles-128.png;rounded=0;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=1;fillColor=none;gradientColor=none;fontSize=10;fontColor=#000000;opacity=65;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-150">
           <mxGeometry x="391" y="318.99999999999994" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="qWEY_5Er5nwBZzaI58Md-217" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -268,7 +259,7 @@
         <mxCell id="qWEY_5Er5nwBZzaI58Md-175" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=1;sketch=1;fillColor=#FF0000;fontSize=16;direction=east;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-217">
           <mxGeometry y="70" width="26.55" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="qWEY_5Er5nwBZzaI58Md-205" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/sports-android-l-lollipop-icon-pack/24/meditation_guru-128.png;rounded=0;shadow=1;glass=0;dashed=1;dashPattern=1 1;sketch=1;fillColor=#4D4D4D;gradientColor=none;fontSize=10;fontColor=#000000;opacity=80;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-217">
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-205" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/sports-android-l-lollipop-icon-pack/24/meditation_guru-128.png;rounded=0;shadow=1;glass=0;dashed=1;dashPattern=1 1;sketch=1;fillColor=#4D4D4D;gradientColor=none;fontSize=10;fontColor=#000000;opacity=55;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-217">
           <mxGeometry x="96.82999999999998" y="416.3800000000001" width="50.38" height="50.38" as="geometry" />
         </mxCell>
         <mxCell id="qWEY_5Er5nwBZzaI58Md-172" value="" style="whiteSpace=wrap;html=1;shadow=0;sketch=1;fontSize=16;rounded=1;glass=1;fillStyle=hachure;fillColor=#C2E4FF;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-217">
@@ -316,22 +307,22 @@
         <mxCell id="qWEY_5Er5nwBZzaI58Md-207" value="&lt;font style=&quot;font-size: 12px&quot;&gt;有成果的冥想&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=16;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-217">
           <mxGeometry x="63.51999999999998" y="396.0011111111112" width="115" height="22.22222222222222" as="geometry" />
         </mxCell>
-        <mxCell id="qWEY_5Er5nwBZzaI58Md-210" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-management-3-4/256/m-39-128.png;rounded=0;shadow=1;glass=0;dashed=1;dashPattern=1 1;sketch=1;fillColor=#4D4D4D;gradientColor=none;fontSize=10;fontColor=#000000;opacity=80;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-217">
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-210" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-management-3-4/256/m-39-128.png;rounded=0;shadow=1;glass=0;dashed=1;dashPattern=1 1;sketch=1;fillColor=#4D4D4D;gradientColor=none;fontSize=10;fontColor=#000000;opacity=60;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-217">
           <mxGeometry x="243.76" y="418.3800000000001" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qWEY_5Er5nwBZzaI58Md-212" value="&lt;span style=&quot;font-size: 12px ; line-height: 40%&quot;&gt;不断推导下一步，指明注意力的方向&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=16;spacing=2;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-217">
-          <mxGeometry x="166.26" y="396" width="205" height="22.22" as="geometry" />
+          <mxGeometry x="171.73999999999998" y="396" width="205" height="22.22" as="geometry" />
         </mxCell>
         <mxCell id="qWEY_5Er5nwBZzaI58Md-213" value="&lt;span style=&quot;font-size: 12px&quot;&gt;记忆力训练&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=16;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-217">
           <mxGeometry x="368.26" y="396.0022222222224" width="115" height="22.22222222222222" as="geometry" />
         </mxCell>
-        <mxCell id="qWEY_5Er5nwBZzaI58Md-216" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/entrepreneur-solid-high-risk-high-return/512/Innovative_mind-128.png;rounded=0;shadow=1;glass=0;dashed=1;dashPattern=1 1;sketch=1;fillColor=#4D4D4D;gradientColor=none;fontSize=10;fontColor=#000000;opacity=80;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-217">
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-216" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/entrepreneur-solid-high-risk-high-return/512/Innovative_mind-128.png;rounded=0;shadow=1;glass=0;dashed=1;dashPattern=1 1;sketch=1;fillColor=#4D4D4D;gradientColor=none;fontSize=10;fontColor=#000000;opacity=55;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-217">
           <mxGeometry x="400.76" y="418.3800000000001" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qWEY_5Er5nwBZzaI58Md-250" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-251" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="170" y="2594" width="752" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="qWEY_5Er5nwBZzaI58Md-48" value="" style="group" vertex="1" connectable="0" parent="qWEY_5Er5nwBZzaI58Md-250">
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-48" value="" style="group" vertex="1" connectable="0" parent="qWEY_5Er5nwBZzaI58Md-251">
           <mxGeometry y="226" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qWEY_5Er5nwBZzaI58Md-49" value="&lt;span style=&quot;font-size: 16px ; text-align: left&quot;&gt;谨慎选择网络工具&lt;/span&gt;" style="whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-48">
@@ -340,7 +331,7 @@
         <mxCell id="qWEY_5Er5nwBZzaI58Md-50" value="" style="triangle;html=1;whiteSpace=wrap;sketch=1;shadow=1;fillStyle=solid;fillColor=#FF0000;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-48">
           <mxGeometry y="5" width="26" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qWEY_5Er5nwBZzaI58Md-218" value="" style="group" vertex="1" connectable="0" parent="qWEY_5Er5nwBZzaI58Md-250">
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-218" value="" style="group" vertex="1" connectable="0" parent="qWEY_5Er5nwBZzaI58Md-251">
           <mxGeometry x="252" width="500" height="480" as="geometry" />
         </mxCell>
         <mxCell id="qWEY_5Er5nwBZzaI58Md-247" value="" style="whiteSpace=wrap;html=1;shadow=0;sketch=1;fontSize=16;rounded=1;glass=1;fillStyle=hachure;fillColor=#C2E4FF;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-218">
@@ -384,6 +375,57 @@
         </mxCell>
         <mxCell id="qWEY_5Er5nwBZzaI58Md-249" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-14-128.png;rounded=0;shadow=1;glass=0;dashed=1;dashPattern=1 1;sketch=1;fillColor=#4D4D4D;gradientColor=none;fontSize=10;fontColor=#000000;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-218">
           <mxGeometry x="176.62" y="384.6199999999999" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-273" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="190" y="3420" width="650" height="455.1100000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-51" value="" style="group" vertex="1" connectable="0" parent="qWEY_5Er5nwBZzaI58Md-273">
+          <mxGeometry y="207.55000000000018" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-52" value="&lt;span style=&quot;font-size: 16px ; text-align: left&quot;&gt;提前做好时间规划&lt;/span&gt;" style="whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-51">
+          <mxGeometry x="50" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-53" value="" style="triangle;html=1;whiteSpace=wrap;sketch=1;shadow=1;fillStyle=solid;fillColor=#FF0000;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-51">
+          <mxGeometry y="5" width="26" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-252" value="" style="whiteSpace=wrap;html=1;shadow=0;sketch=1;fontSize=16;rounded=1;glass=1;fillStyle=hachure;fillColor=#C2E4FF;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-273">
+          <mxGeometry x="311" y="340" width="327.52" height="115.11" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-253" value="&lt;font&gt;预留一定的弹性时间&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=16;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-273">
+          <mxGeometry x="386" y="358.6199999999999" width="191.24" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-254" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=1;sketch=1;fillColor=#FF0000;fontSize=16;direction=east;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-273">
+          <mxGeometry x="270" y="64" width="26.55" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-255" value="" style="whiteSpace=wrap;html=1;shadow=0;sketch=1;fontSize=16;rounded=1;glass=1;fillStyle=hachure;fillColor=#C2E4FF;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-273">
+          <mxGeometry x="311" y="155.28999999999996" width="339" height="147.43" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-256" value="&lt;font style=&quot;font-size: 16px&quot;&gt;剩余时间产能最大化&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=16;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-273">
+          <mxGeometry x="397.52" y="170" width="158.98" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-257" value="" style="whiteSpace=wrap;html=1;shadow=0;sketch=1;fontSize=16;rounded=1;glass=1;fillStyle=hachure;fillColor=#C2E4FF;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-273">
+          <mxGeometry x="310" width="330" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-258" value="&lt;font style=&quot;font-size: 16px&quot;&gt;掌握工作的主动权&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=16;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-273">
+          <mxGeometry x="347.76" y="16" width="258.49" height="22.22" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-259" value="&lt;span style=&quot;font-size: 12px&quot;&gt;规划好剩余时间而不是强制执行计划&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;sketch=1;fontSize=16;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-273">
+          <mxGeometry x="357.01" y="41.779999999999745" width="240" height="22.22" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-269" value="" style="group;aspect=fixed;opacity=0;" vertex="1" connectable="0" parent="qWEY_5Er5nwBZzaI58Md-273">
+          <mxGeometry x="386" y="194" width="188.92" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-267" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;rounded=0;shadow=1;glass=0;sketch=1;gradientColor=none;fontSize=10;fontColor=#000000;fillColor=none;opacity=70;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-269">
+          <mxGeometry x="6.667764705882351" width="166.6941176470588" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-268" value="剩下的时间里我最应该做什么" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;dashed=1;dashPattern=1 1;sketch=1;fontSize=10;fontColor=#000000;opacity=80;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-269">
+          <mxGeometry y="27.777777777777775" width="188.91999999999996" height="22.22222222222222" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-271" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/coronavirus/64/recovery-recuperation-convalescence-winner-resilience-128.png;rounded=0;shadow=1;glass=0;dashed=1;dashPattern=1 1;sketch=0;fillColor=none;gradientColor=none;fontSize=10;fontColor=#000000;opacity=70;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-273">
+          <mxGeometry x="444.76" y="62" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWEY_5Er5nwBZzaI58Md-272" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/web-development-and-studio/512/43_coffee_Break_cup_time_event-128.png;rounded=0;shadow=1;glass=0;sketch=0;fillColor=none;gradientColor=none;fontSize=10;fontColor=#000000;opacity=70;" vertex="1" parent="qWEY_5Er5nwBZzaI58Md-273">
+          <mxGeometry x="442.51" y="380.6199999999999" width="69" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
