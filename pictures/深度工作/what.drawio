@@ -1,19 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T10:20:43.073Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="mpxzAuFJWhMPh_o66QEj" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-22T09:04:42.991Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="enrOgRHPxW23rBJQ9SUX" version="14.2.6" type="github">
   <diagram id="2Q7wHZQhwZNyx9bPyNay" name="第 1 页">
     <mxGraphModel dx="1426" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F3E8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QfFrR6SA7EDd0lu5BNjO-5" value="浮浅工作" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillStyle=dots;fontSize=16;fillColor=#f8cecc;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="gfLzKNmphxbWurQUzl34-3" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curved=1;strokeWidth=2;endArrow=classic;endFill=1;endSize=16;shadow=0;" edge="1" parent="1" source="QfFrR6SA7EDd0lu5BNjO-5" target="QfFrR6SA7EDd0lu5BNjO-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="614" y="410" />
+              <mxPoint x="214" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QfFrR6SA7EDd0lu5BNjO-5" value="浮浅工作" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillStyle=dots;fontSize=16;fillColor=#f8cecc;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="554" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QfFrR6SA7EDd0lu5BNjO-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;深度工作&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;shadow=0;glass=0;fontSize=16;fillColor=#BAE8FC;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="QfFrR6SA7EDd0lu5BNjO-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;深度工作&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;shadow=0;glass=0;fontSize=16;fillColor=#BAE8FC;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="154" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QfFrR6SA7EDd0lu5BNjO-7" value="一个刚毕业没有任何经验的大学生&lt;br&gt;完成这项工作需要多久？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=16;strokeColor=#808080;sketch=1;rounded=1;opacity=90;strokeWidth=2;fillStyle=auto;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="204" y="80" width="420" height="148" as="geometry" />
+        <mxCell id="QfFrR6SA7EDd0lu5BNjO-7" value="一个刚毕业没有任何经验的大学生&lt;br&gt;完成这项工作需要多久？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;glass=0;fontSize=16;sketch=1;rounded=1;opacity=90;strokeWidth=3;fillStyle=auto;strokeColor=#808080;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="204" y="70" width="420" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="QfFrR6SA7EDd0lu5BNjO-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontSize=16;exitX=0.523;exitY=0.946;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curved=1;" edge="1" parent="1" source="QfFrR6SA7EDd0lu5BNjO-7" target="QfFrR6SA7EDd0lu5BNjO-6">
+        <mxCell id="QfFrR6SA7EDd0lu5BNjO-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontSize=16;exitX=0.523;exitY=0.946;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curved=1;" parent="1" source="QfFrR6SA7EDd0lu5BNjO-7" target="QfFrR6SA7EDd0lu5BNjO-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="408" y="230" as="sourcePoint" />
             <mxPoint x="248" y="310" as="targetPoint" />
@@ -22,7 +30,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QfFrR6SA7EDd0lu5BNjO-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontSize=16;sketch=1;curved=1;" edge="1" parent="1" target="QfFrR6SA7EDd0lu5BNjO-5">
+        <mxCell id="QfFrR6SA7EDd0lu5BNjO-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontSize=16;sketch=1;curved=1;" parent="1" target="QfFrR6SA7EDd0lu5BNjO-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="424" y="220" as="sourcePoint" />
             <mxPoint x="254" y="300" as="targetPoint" />
@@ -31,20 +39,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QfFrR6SA7EDd0lu5BNjO-22" value="3个月以上" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontSize=16;fontColor=#000000;opacity=90;" vertex="1" parent="1">
+        <mxCell id="QfFrR6SA7EDd0lu5BNjO-22" value="3个月以上" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontSize=16;fontColor=#000000;opacity=90;" parent="1" vertex="1">
           <mxGeometry x="254" y="228" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QfFrR6SA7EDd0lu5BNjO-23" value="少于3个月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontSize=16;fontColor=#000000;opacity=90;" vertex="1" parent="1">
+        <mxCell id="QfFrR6SA7EDd0lu5BNjO-23" value="少于3个月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontSize=16;fontColor=#000000;opacity=90;" parent="1" vertex="1">
           <mxGeometry x="473" y="228" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QfFrR6SA7EDd0lu5BNjO-31" value="&lt;ol&gt;&lt;li&gt;有意识地衡量每个任务的深浅度&lt;/li&gt;&lt;li&gt;清晰地划分出可工作时间，在有限的时间内，更谨慎地思考、选择、处理工作内容&lt;/li&gt;&lt;li&gt;工作尽可能地流程化&lt;/li&gt;&lt;li&gt;计划一段“消失”时间，无打扰地进行长时间的深度工作&lt;/li&gt;&lt;/ol&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;strokeColor=#808080;strokeWidth=2;fillColor=#E6E6E6;fontSize=16;fontColor=#000000;opacity=90;align=left;verticalAlign=middle;horizontal=1;spacing=6;spacingTop=0;spacingRight=2;spacingBottom=2;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="243" y="412" width="360" height="140" as="geometry" />
+        <mxCell id="QfFrR6SA7EDd0lu5BNjO-31" value="&lt;ol&gt;&lt;li&gt;有意识地衡量每个任务的深浅度&lt;/li&gt;&lt;li&gt;清晰地划分出可工作时间，在有限的时间内，更谨慎地思考、选择、处理工作内容&lt;/li&gt;&lt;li&gt;工作尽可能地流程化&lt;/li&gt;&lt;li&gt;计划一段“消失”时间，无打扰地进行长时间的深度工作&lt;/li&gt;&lt;/ol&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;strokeColor=#808080;strokeWidth=2;fillColor=#E6E6E6;fontSize=16;fontColor=#000000;opacity=90;align=left;verticalAlign=middle;horizontal=1;spacing=6;spacingTop=0;spacingRight=2;spacingBottom=2;spacingLeft=0;" parent="1" vertex="1">
+          <mxGeometry x="234" y="460" width="360" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="QfFrR6SA7EDd0lu5BNjO-32" value="如何减少浮浅工作，增加深度工作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontSize=16;fontColor=#000000;opacity=90;" vertex="1" parent="1">
-          <mxGeometry x="288" y="387" width="270" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="QfFrR6SA7EDd0lu5BNjO-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.6;dx=40;notch=25;rounded=1;glass=0;sketch=1;strokeColor=#808080;strokeWidth=2;fontSize=16;fontColor=#000000;opacity=90;direction=west;fillColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="344" y="285" width="160" height="70" as="geometry" />
+        <mxCell id="QfFrR6SA7EDd0lu5BNjO-32" value="如何减少浮浅工作，增加深度工作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontSize=16;fontColor=#000000;opacity=90;" parent="1" vertex="1">
+          <mxGeometry x="279" y="430" width="270" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
