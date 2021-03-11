@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T03:21:20.751Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="a7fMddIjensGYyfd2cT3" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T03:38:29.091Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="iObXypUz9W6TmInrB7Fs" version="14.4.6" type="github">
   <diagram id="BU18d-fVRYyKRfr991_y" name="第 1 页">
     <mxGraphModel dx="1426" dy="-27" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFDF0" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
         <mxCell id="DUtqW51J8o4DJ0MrX4qo-63" value="" style="sketch=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeWidth=2;fontFamily=Tahoma;fontSize=14;" edge="1" parent="1" source="DUtqW51J8o4DJ0MrX4qo-64" target="DUtqW51J8o4DJ0MrX4qo-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DUtqW51J8o4DJ0MrX4qo-64" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;1111 -&amp;gt; 192.168.1.1:8000:mac@1&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;2222 -&amp;gt; 192.168.1.2:8000:mac@2&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontFamily=Tahoma;fontSize=14;strokeWidth=2;glass=1;sketch=1;fillStyle=solid;rounded=1;fillColor=#D1DDEB;" vertex="1" parent="1">
+        <mxCell id="DUtqW51J8o4DJ0MrX4qo-64" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;1111 -&amp;gt; 192.168.1.10:8000:mac@1&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;2222 -&amp;gt; 192.168.1.20:8000:mac@2&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontFamily=Tahoma;fontSize=14;strokeWidth=2;glass=1;sketch=1;fillStyle=solid;rounded=1;fillColor=#D1DDEB;" vertex="1" parent="1">
           <mxGeometry x="486.75" y="1357.24" width="219.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="DUtqW51J8o4DJ0MrX4qo-65" value="" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;labelBackgroundColor=none;fontColor=#ffffff;fillColor=#4D4D4D;strokeColor=#4D4D4D;" vertex="1" parent="1">
@@ -82,6 +82,12 @@
         </mxCell>
         <mxCell id="DUtqW51J8o4DJ0MrX4qo-70" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;RIP-3&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="862" y="1341.24" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DUtqW51J8o4DJ0MrX4qo-71" value="源：&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;192.168.1.10:8000:mac@1&lt;/span&gt;&lt;br&gt;目标：RIP-1:PORT:mac@RIP-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="797" y="1065" width="179" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="DUtqW51J8o4DJ0MrX4qo-72" value="源：RIP-1:PORT:mac@RIP-1&lt;br&gt;目标：&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;192.168.1.10:8000:mac@1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#82B366;" vertex="1" parent="1">
+          <mxGeometry x="596" y="1171" width="185" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
