@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T08:30:15.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="AL_ULrCEFSssqkxpAF6D" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T08:45:12.034Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="3iMWCtcI3mFtDCqBmz7I" version="14.8.4" type="github">
   <diagram id="zyWG3TQpWR5dXxmWfiyf" name="Page-1">
-    <mxGraphModel dx="1557" dy="496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2198" dy="654" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,17 +46,17 @@
         <mxCell id="jH7KqSB4zxZCyp2HG_vA-8" value="谨慎新兴产业的“想象力”" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;shadow=1;fillStyle=solid;fillColor=#C4E0FF;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="274" y="562" width="208" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="jH7KqSB4zxZCyp2HG_vA-10" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;好公司&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;strokeWidth=3;rounded=1;shadow=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="427" y="749" width="115" height="56" as="geometry" />
+        <mxCell id="jH7KqSB4zxZCyp2HG_vA-10" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&amp;nbsp; 好公司&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;strokeWidth=3;rounded=1;shadow=1;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="397.5" y="733" width="174" height="56" as="geometry" />
         </mxCell>
         <mxCell id="jH7KqSB4zxZCyp2HG_vA-11" value="" style="triangle;html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#FF0000;rounded=1;fillStyle=solid;sketch=1;" parent="jH7KqSB4zxZCyp2HG_vA-10" vertex="1">
-          <mxGeometry x="18" y="13" width="20" height="30" as="geometry" />
+          <mxGeometry x="36" y="13" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jH7KqSB4zxZCyp2HG_vA-18" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#C4E0FF;direction=south;rotation=60;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="352" y="799" width="27" height="95" as="geometry" />
         </mxCell>
         <mxCell id="jH7KqSB4zxZCyp2HG_vA-34" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;已经在竞争中脱颖而出&lt;br&gt;一家独大 &amp;gt;&amp;gt; 一超多强 &amp;gt;&amp;gt; 两分天下、三足鼎立&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;shadow=1;fillStyle=solid;fillColor=#FFD6D6;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="285.5" y="1230" width="398" height="71" as="geometry" />
+          <mxGeometry x="293.25" y="1211" width="398" height="71" as="geometry" />
         </mxCell>
         <mxCell id="jH7KqSB4zxZCyp2HG_vA-37" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxnIGZpbGw9IiMwMEJDRDQiPiYjeGE7ICAgICAgICA8cmVjdCB4PSIxOSIgeT0iMjIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIyMCIvPiYjeGE7ICAgICAgICA8cmVjdCB4PSI2IiB5PSI4IiB3aWR0aD0iMTAiIGhlaWdodD0iMzQiLz4mI3hhOyAgICAgICAgPHJlY3QgeD0iMzIiIHk9IjMwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTIiLz4mI3hhOyAgICA8L2c+JiN4YTsgICAgPGcgZmlsbD0iIzNGNTFCNSI+JiN4YTsgICAgICAgIDxwb2x5Z29uIHBvaW50cz0iNDIsMTIgMzIsMjIgNDIsMjIiLz4mI3hhOyAgICAgICAgPHJlY3QgeD0iMzIiIHk9IjYuOSIgdHJhbnNmb3JtPSJtYXRyaXgoLjcwNyAtLjcwNyAuNzA3IC43MDcgLjA1OSAyOC4xNDIpIiB3aWR0aD0iNCIgaGVpZ2h0PSIxNC4xIi8+JiN4YTsgICAgPC9nPiYjeGE7PC9zdmc+;rounded=1;shadow=1;strokeWidth=3;fillColor=#FFABAB;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-632.5" y="428.5" width="28" height="28" as="geometry" />
@@ -95,13 +95,13 @@
           <mxGeometry x="30" y="162" width="208" height="31" as="geometry" />
         </mxCell>
         <mxCell id="jH7KqSB4zxZCyp2HG_vA-42" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#C4E0FF;direction=south;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="466.25" y="1104" width="36.5" height="97" as="geometry" />
+          <mxGeometry x="474" y="1094" width="36.5" height="97" as="geometry" />
         </mxCell>
         <mxCell id="jH7KqSB4zxZCyp2HG_vA-43" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fillColor=#C4E0FF;direction=east;rotation=30;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="556" y="833" width="95" height="27" as="geometry" />
         </mxCell>
         <mxCell id="jH7KqSB4zxZCyp2HG_vA-45" value="" style="triangle;html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#FF0000;rounded=0;fillStyle=solid;direction=north;arcSize=7;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="366" y="1244" width="22" height="18" as="geometry" />
+          <mxGeometry x="379" y="1228" width="22" height="18" as="geometry" />
         </mxCell>
         <mxCell id="VS7FU2He_ylNgeMMkiBf-1" value="高杠杆" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillStyle=dots;fillColor=#f8cecc;fontSize=20;fontStyle=1;strokeColor=#b85450;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="535.43" y="1680" width="120" height="60" as="geometry" />
