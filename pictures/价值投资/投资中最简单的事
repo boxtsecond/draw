@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T02:47:03.448Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="fb6hw0QspascW3jhxoAg" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T03:34:57.329Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="okGIvBU2lGfnxQVIk8BG" version="14.8.4" type="github">
   <diagram id="zyWG3TQpWR5dXxmWfiyf" name="Page-1">
     <mxGraphModel dx="1630" dy="1339" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,6 +159,18 @@
         </mxCell>
         <mxCell id="YxOFi_NFCCuCN8L7h9s0-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;股价已经反映甚至过度反映了所有可能出现的坏消息，已经跌不动了&lt;/li&gt;&lt;li&gt;高管增持&lt;/li&gt;&lt;li&gt;新订单等催化剂&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=23;align=left;strokeColor=#9673a6;fillColor=#E6E5E7;" vertex="1" parent="1">
           <mxGeometry x="451" y="2499" width="324" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="YxOFi_NFCCuCN8L7h9s0-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;labelBackgroundColor=none;fontSize=23;align=left;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2971" height="407" as="geometry" />
+        </mxCell>
+        <mxCell id="YxOFi_NFCCuCN8L7h9s0-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/coronavirus-10/512/report-clipboard-medical-checklist-healthcare-128.png;fontSize=23;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="2950" width="69" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="YxOFi_NFCCuCN8L7h9s0-19" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=23;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="2938" width="284" height="453" as="geometry" />
+        </mxCell>
+        <mxCell id="YxOFi_NFCCuCN8L7h9s0-21" value="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;低估值的价值股的长期投资回报率都显著优于高估值的成长股&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;一个股票的便宜与否，看估值比看近期涨跌更可靠，基本面大幅超预期时，会越涨越便宜，反之会越跌越贵&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;不要把短期趋势长期化&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;股票的投资价值与买入成本无关，也与是否亏损无关&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;全世界的看法都一致的时刻是最危险的&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;抄底时注意安全边际，价格便宜才是硬道理&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;少用甚至不用杠杆&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;挑选低估值、高品质（高端品牌或寡头垄断）的股票，分期分批加仓&lt;/li&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="38" y="3011" width="280" height="376" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
